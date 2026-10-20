@@ -1,0 +1,3 @@
+Solar Radiation 
+CDEC FRT Sensor until July 2019 at which point data is now from CIMIS Fresno
+State Stn. 80 since the FRT sensor record for Solar ends at this point
