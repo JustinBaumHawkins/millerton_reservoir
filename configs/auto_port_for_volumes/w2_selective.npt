@@ -1,7 +1,7 @@
 Selective input control file
 Temperature outlet control - frequency of output for temperature
 OUT FREQ TFRQTMP
-         0.02083
+               1
 
 DYNSTR1  CONTROL     NUM    FREQ
              OFF       2    0.50
